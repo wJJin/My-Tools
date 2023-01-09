@@ -1,6 +1,7 @@
-## How to use
+## Add path
 
----
-
-sys.path.append("/home/bmegpu01/wjin/ASAP/opt/ASAP/bin")
+```python
+sys.path.append("./ASAP/bin")
 import multiresolutionimageinterface as mir
+```
+
